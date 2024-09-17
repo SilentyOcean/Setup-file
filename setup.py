@@ -10,9 +10,9 @@ if len(sys.argv) != 3:
 
 current = os.getcwd()
 
-web = #Path to web directory
-webext = #Path to web extension directory
-webflask = #Path to web flask directory
+web = "directory/web"
+webext = "directory/webext"
+webflask = "directory/webflask"
 
 print(length)
 
