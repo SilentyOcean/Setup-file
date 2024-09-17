@@ -10,9 +10,9 @@ if len(sys.argv) != 3:
 
 current = os.getcwd()
 
-web = "D:\\Code\\Life_Automation\\MakeDir\\directory\\web"
-webext = "D:\\Code\\Life_Automation\\MakeDir\\directory\\webext"
-webflask = "D:\\Code\\Life_Automation\\MakeDir\\directory\\webflask"
+web = #Path to web directory
+webext = #Path to web extension directory
+webflask = #Path to web flask directory
 
 print(length)
 
